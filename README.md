@@ -5,4 +5,4 @@ Our project focuses on analyzing the nutrition breakdown in Guatemala by region 
 
 ## GitHub Usage:
 This README file is a general how-to for our group's Projects 4 in working with GitHub in EEP 153.
-Our project files involving Jupyter Notebooks will be organized into folders in the main repository. These can be accessed within the files in the repository, each labeled with the contents of the file.
+Our project files involving Jupyter Notebooks will be organized within the main repository. These can be accessed within the files in the repository, each labeled with the contents of the file.
